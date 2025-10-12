@@ -131,10 +131,6 @@ Maven
 
 Steps
 
-git clone https://github.com/your-username/ecom-proj.git
-cd ecom-proj
-mvn spring-boot:run
-
 Access API at: http://localhost:8080/api
 
 🧰 Useful Maven Commands
@@ -150,3 +146,4 @@ Uses H2 database for development. Switch to MySQL/PostgreSQL for production.
 Enable CORS for frontend integration.
 
 Lombok is included for cleaner model code (optional).
+
